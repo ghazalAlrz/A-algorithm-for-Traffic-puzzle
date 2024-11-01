@@ -1,4 +1,4 @@
-# A-algorithm-for-Traffic-puzzle
+# A*-algorithm-for-Traffic-puzzle
 
 ## Overview
 
